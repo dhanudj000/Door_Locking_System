@@ -1,11 +1,8 @@
 # Door_Locking_System
 
 This project is based on unlocking the door using password.
-
-it stores the password in eeeprom and compare the password with the entered password from matrix keypad
-
-if password is correct the door unlocks with the help of thwe servo.
-
+it stores the password in eeeprom and compare the password with the entered password from matrix keypad.
+if password is correct the door unlocks with the help of the servo.
 else the screen will be blocked for a set period.
 
 # Used_Techmologies
